@@ -1,0 +1,9 @@
+query,ad_title,ad_text,clicked,label_relevant
+"buy running shoes","Lightweight Running Shoes","Shop the latest lightweight running shoes with free shipping.",1,1
+"buy running shoes","Luxury Leather Heels","Premium leather heels for special occasions.",0,0
+"cheap hotel paris","Budget Hotel in Paris","Book a budget-friendly hotel room in central Paris.",1,1
+"cheap hotel paris","Flight Deals to New York","Save on flights to New York this summer.",0,0
+"learn python","Online Python Course","Interactive Python course with real projects.",1,1
+"learn python","Photography Masterclass","Improve your photography with our online masterclass.",0,0
+"best smartphone 2024","New XPhone 12","Fast performance, great camera, long battery life.",1,1
+"best smartphone 2024","Used Car Marketplace","Find used cars near you at great prices.",0,0
